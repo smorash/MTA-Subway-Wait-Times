@@ -7,3 +7,5 @@ From the visualizations, several conclusions can be drawn:
 - Off-peak trains have a higher wait assessment percentage (Peak trains run from 7:00am to 10:00am and 4:00pm to 7:00pm during weekdays and 10:00am to 6:00pm on weekends.  All other trains are off-peak.)
 - The S Fkln line has the highest average wait assessment, the 4 line has the lowest average wait assessment
 - The most common wait assessment is 0.753 
+
+<img width="1520" alt="Dashboard 1" src="https://github.com/smorash/MTA-Subway-Wait-Times/assets/100969488/b72d592c-1004-47ed-8ffb-aae50265bc9f">
